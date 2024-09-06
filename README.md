@@ -1,1 +1,2 @@
 # odin-recipes
+Hi my name is Katlego and I am supposed to write a pararagraph of what this small application is about. This is an application known as "odin-recipes". Recipes will be displayed from page to page, and this is suppose to teach me the basiscs of HTML and a bit of CSS so join me as you look at the types of skills I will be learning. If you interested on learning the following I suggest you look at the odin project. BYe Bye..
